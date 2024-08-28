@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/0728-self-dividing-numbers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darwina200404/leet-code-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Bit Manipulation
 |  |
