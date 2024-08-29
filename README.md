@@ -17,4 +17,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darwina200404/leet-code-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/darwina200404/leet-code-problems/tree/master/0383-ransom-note) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/darwina200404/leet-code-problems/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/darwina200404/leet-code-problems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
