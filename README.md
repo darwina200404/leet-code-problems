@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0520-detect-capital](https://github.com/darwina200404/leet-code-problems/tree/master/0520-detect-capital) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2406-decode-the-message](https://github.com/darwina200404/leet-code-problems/tree/master/2406-decode-the-message) |
+| [3312-number-of-changing-keys](https://github.com/darwina200404/leet-code-problems/tree/master/3312-number-of-changing-keys) |
 ## Counting
 |  |
 | ------- |
