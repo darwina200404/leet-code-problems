@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0520-detect-capital](https://github.com/darwina200404/leet-code-problems/tree/master/0520-detect-capital) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/darwina200404/leet-code-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2010-check-if-word-equals-summation-of-two-words](https://github.com/darwina200404/leet-code-problems/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/darwina200404/leet-code-problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2406-decode-the-message](https://github.com/darwina200404/leet-code-problems/tree/master/2406-decode-the-message) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/darwina200404/leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
