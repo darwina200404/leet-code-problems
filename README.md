@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/darwina200404/leet-code-problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/darwina200404/leet-code-problems/tree/master/0383-ransom-note) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/darwina200404/leet-code-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2406-decode-the-message](https://github.com/darwina200404/leet-code-problems/tree/master/2406-decode-the-message) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/darwina200404/leet-code-problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/darwina200404/leet-code-problems/tree/master/0383-ransom-note) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/darwina200404/leet-code-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -60,6 +62,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/darwina200404/leet-code-problems/tree/master/0169-majority-element) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/darwina200404/leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/darwina200404/leet-code-problems/tree/master/3242-count-elements-with-maximum-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/darwina200404/leet-code-problems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/darwina200404/leet-code-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
