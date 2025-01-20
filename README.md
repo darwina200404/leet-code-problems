@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/darwina200404/leet-code-problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/darwina200404/leet-code-problems/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/darwina200404/leet-code-problems/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/0728-self-dividing-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/darwina200404/leet-code-problems/tree/master/1236-n-th-tribonacci-number) |
