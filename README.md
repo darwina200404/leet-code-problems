@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/darwina200404/leet-code-problems/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/darwina200404/leet-code-problems/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/darwina200404/leet-code-problems/tree/master/0520-detect-capital) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -93,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/darwina200404/leet-code-problems/tree/master/0074-search-a-2d-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/darwina200404/leet-code-problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
