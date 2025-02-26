@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/0728-self-dividing-numbers) |
 | [1236-n-th-tribonacci-number](https://github.com/darwina200404/leet-code-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darwina200404/leet-code-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2507-number-of-common-factors](https://github.com/darwina200404/leet-code-problems/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/darwina200404/leet-code-problems/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/darwina200404/leet-code-problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/darwina200404/leet-code-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -117,8 +118,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/darwina200404/leet-code-problems/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/darwina200404/leet-code-problems/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/darwina200404/leet-code-problems/tree/master/0204-count-primes) |
+| [2507-number-of-common-factors](https://github.com/darwina200404/leet-code-problems/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
