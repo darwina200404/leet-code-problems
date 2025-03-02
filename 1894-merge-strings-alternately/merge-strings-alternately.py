@@ -13,9 +13,7 @@ class Solution(object):
         i=0
         while(w1>i and w2> i):
             ans+=word1[i]
-            
             ans+=word2[i]
-            
             i+=1
         ans+=word1[i:]
         ans+=word2[i:]
