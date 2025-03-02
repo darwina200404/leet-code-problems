@@ -11,11 +11,11 @@ class Solution(object):
         w1=len(word1)
         w2=len(word2)
         i=0
-        while(w1>0 and w2> 0):
+        while(w1>i and w2> i):
             ans+=word1[i]
-            w1-=1
+            
             ans+=word2[i]
-            w2-=1
+            
             i+=1
         ans+=word1[i:]
         ans+=word2[i:]
