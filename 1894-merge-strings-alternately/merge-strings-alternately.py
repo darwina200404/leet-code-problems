@@ -15,8 +15,10 @@ class Solution(object):
             ans+=word1[i]
             ans+=word2[i]
             i+=1
-        ans+=word1[i:]
-        ans+=word2[i:]
+        if(w1>w2):
+            ans+=word1[i:]
+        else:
+            ans+=word2[i:]
         return ans
         
 
