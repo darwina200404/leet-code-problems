@@ -8,17 +8,13 @@ class Solution(object):
         """
         
         ans=""
-        w1=len(word1)
-        w2=len(word2)
         i=0
-        while(w1>i and w2> i):
+        while(len(word1)>i and len(word2)> i):
             ans+=word1[i]
             ans+=word2[i]
             i+=1
-        if(w1>w2):
-            ans+=word1[i:]
-        else:
-            ans+=word2[i:]
+        ans+=word1[i:]
+        ans+=word2[i:]
         return ans
         
 
