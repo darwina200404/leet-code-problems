@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/darwina200404/leet-code-problems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/darwina200404/leet-code-problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/darwina200404/leet-code-problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/darwina200404/leet-code-problems/tree/master/0283-move-zeroes) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/darwina200404/leet-code-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/darwina200404/leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/darwina200404/leet-code-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/darwina200404/leet-code-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/darwina200404/leet-code-problems/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/darwina200404/leet-code-problems/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/darwina200404/leet-code-problems/tree/master/1894-merge-strings-alternately) |
 ## Enumeration
 |  |
