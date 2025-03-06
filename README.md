@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/darwina200404/leet-code-problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/darwina200404/leet-code-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/darwina200404/leet-code-problems/tree/master/0389-find-the-difference) |
+| [0459-repeated-substring-pattern](https://github.com/darwina200404/leet-code-problems/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/darwina200404/leet-code-problems/tree/master/0520-detect-capital) |
 | [1205-defanging-an-ip-address](https://github.com/darwina200404/leet-code-problems/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -140,4 +141,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/darwina200404/leet-code-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/darwina200404/leet-code-problems/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
