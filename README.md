@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/darwina200404/leet-code-problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/darwina200404/leet-code-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/darwina200404/leet-code-problems/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/darwina200404/leet-code-problems/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/darwina200404/leet-code-problems/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/darwina200404/leet-code-problems/tree/master/0520-detect-capital) |
 | [1205-defanging-an-ip-address](https://github.com/darwina200404/leet-code-problems/tree/master/1205-defanging-an-ip-address) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/darwina200404/leet-code-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/darwina200404/leet-code-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/darwina200404/leet-code-problems/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/darwina200404/leet-code-problems/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/darwina200404/leet-code-problems/tree/master/1894-merge-strings-alternately) |
 ## Enumeration
 |  |
