@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0182-duplicate-emails](https://github.com/darwina200404/leet-code-problems/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/darwina200404/leet-code-problems/tree/master/0183-customers-who-never-order) |
+| [0584-find-customer-referee](https://github.com/darwina200404/leet-code-problems/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/darwina200404/leet-code-problems/tree/master/1908-recyclable-and-low-fat-products) |
 ## Math
 |  |
