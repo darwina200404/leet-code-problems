@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/darwina200404/leet-code-problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/darwina200404/leet-code-problems/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/0728-self-dividing-numbers) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/darwina200404/leet-code-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darwina200404/leet-code-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2507-number-of-common-factors](https://github.com/darwina200404/leet-code-problems/tree/master/2507-number-of-common-factors) |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/darwina200404/leet-code-problems/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/darwina200404/leet-code-problems/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/darwina200404/leet-code-problems/tree/master/0520-detect-capital) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/darwina200404/leet-code-problems/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1894-merge-strings-alternately](https://github.com/darwina200404/leet-code-problems/tree/master/1894-merge-strings-alternately) |
