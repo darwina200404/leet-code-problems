@@ -5,11 +5,12 @@ class Solution(object):
         :type str2: str
         :rtype: str
         """
-        def check(a, b):
-            return a * (len(b) // len(a)) == b  
+        def gcd(a,b):
+            while b!=0:
+                a,b=b,a%b
+            return a
+        if (str1+str2!=str2+str1):
+            return ""
+        i=gcd(len(str1),len(str2))
+        return str1[:i]
 
-        for i in range(min(len(str1), len(str2)), 0, -1):
-            t = str1[:i]
-            if check(t, str1) and check(t, str2):  
-                return t  # Return first valid GCD string
-        return ""
