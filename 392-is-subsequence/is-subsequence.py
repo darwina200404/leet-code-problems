@@ -5,6 +5,8 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
+        if (len(s)>len(t)):
+            return False
         i,j=0,0
         while i<len(s)and j<len(t):
             if s[i]==t[j]:
