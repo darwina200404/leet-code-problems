@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/darwina200404/leet-code-problems/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/darwina200404/leet-code-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/darwina200404/leet-code-problems/tree/master/0605-can-place-flowers) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/darwina200404/leet-code-problems/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/darwina200404/leet-code-problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/darwina200404/leet-code-problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/darwina200404/leet-code-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/darwina200404/leet-code-problems/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/darwina200404/leet-code-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/darwina200404/leet-code-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/darwina200404/leet-code-problems/tree/master/0151-reverse-words-in-a-string) |
