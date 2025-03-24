@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0495-teemo-attacking](https://github.com/darwina200404/leet-code-problems/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/darwina200404/leet-code-problems/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/darwina200404/leet-code-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1603-running-sum-of-1d-array](https://github.com/darwina200404/leet-code-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/darwina200404/leet-code-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2308-divide-array-into-equal-pairs](https://github.com/darwina200404/leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/darwina200404/leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -178,4 +179,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/darwina200404/leet-code-problems/tree/master/0238-product-of-array-except-self) |
+| [1603-running-sum-of-1d-array](https://github.com/darwina200404/leet-code-problems/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
