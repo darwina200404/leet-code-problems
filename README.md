@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/darwina200404/leet-code-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/darwina200404/leet-code-problems/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/darwina200404/leet-code-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3567-convert-date-to-binary](https://github.com/darwina200404/leet-code-problems/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darwina200404/leet-code-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-number-of-changing-keys](https://github.com/darwina200404/leet-code-problems/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/darwina200404/leet-code-problems/tree/master/3379-score-of-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/darwina200404/leet-code-problems/tree/master/3468-find-the-encrypted-string) |
+| [3567-convert-date-to-binary](https://github.com/darwina200404/leet-code-problems/tree/master/3567-convert-date-to-binary) |
 ## Counting
 |  |
 | ------- |
