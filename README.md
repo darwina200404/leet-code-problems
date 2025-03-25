@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/darwina200404/leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1236-n-th-tribonacci-number](https://github.com/darwina200404/leet-code-problems/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/darwina200404/leet-code-problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/darwina200404/leet-code-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/darwina200404/leet-code-problems/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/darwina200404/leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/darwina200404/leet-code-problems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/darwina200404/leet-code-problems/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/darwina200404/leet-code-problems/tree/master/0238-product-of-array-except-self) |
