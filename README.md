@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2406-decode-the-message](https://github.com/darwina200404/leet-code-problems/tree/master/2406-decode-the-message) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/darwina200404/leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3312-number-of-changing-keys](https://github.com/darwina200404/leet-code-problems/tree/master/3312-number-of-changing-keys) |
+| [3379-score-of-a-string](https://github.com/darwina200404/leet-code-problems/tree/master/3379-score-of-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/darwina200404/leet-code-problems/tree/master/3468-find-the-encrypted-string) |
 ## Counting
 |  |
