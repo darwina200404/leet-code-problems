@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1146-greatest-common-divisor-of-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/darwina200404/leet-code-problems/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/darwina200404/leet-code-problems/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/darwina200404/leet-code-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/darwina200404/leet-code-problems/tree/master/2010-check-if-word-equals-summation-of-two-words) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/darwina200404/leet-code-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/darwina200404/leet-code-problems/tree/master/0605-can-place-flowers) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/darwina200404/leet-code-problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Dynamic Programming
 |  |
