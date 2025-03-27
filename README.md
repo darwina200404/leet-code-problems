@@ -27,6 +27,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/darwina200404/leet-code-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darwina200404/leet-code-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/darwina200404/leet-code-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2383-add-two-integers](https://github.com/darwina200404/leet-code-problems/tree/master/2383-add-two-integers) |
 | [2507-number-of-common-factors](https://github.com/darwina200404/leet-code-problems/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/darwina200404/leet-code-problems/tree/master/2556-convert-the-temperature) |
@@ -101,6 +102,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/darwina200404/leet-code-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/darwina200404/leet-code-problems/tree/master/0605-can-place-flowers) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/darwina200404/leet-code-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/darwina200404/leet-code-problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 ## Dynamic Programming
@@ -132,6 +134,7 @@
 | [0605-can-place-flowers](https://github.com/darwina200404/leet-code-problems/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/darwina200404/leet-code-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/darwina200404/leet-code-problems/tree/master/1603-running-sum-of-1d-array) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/darwina200404/leet-code-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/darwina200404/leet-code-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/darwina200404/leet-code-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2308-divide-array-into-equal-pairs](https://github.com/darwina200404/leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -154,6 +157,7 @@
 | [0242-valid-anagram](https://github.com/darwina200404/leet-code-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/darwina200404/leet-code-problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/darwina200404/leet-code-problems/tree/master/0389-find-the-difference) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/darwina200404/leet-code-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/darwina200404/leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -204,4 +208,8 @@
 | [1603-running-sum-of-1d-array](https://github.com/darwina200404/leet-code-problems/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/darwina200404/leet-code-problems/tree/master/2714-left-and-right-sum-differences) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/darwina200404/leet-code-problems/tree/master/3731-sum-of-variable-length-subarrays) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/darwina200404/leet-code-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
