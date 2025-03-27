@@ -12,6 +12,7 @@
 | [0595-big-countries](https://github.com/darwina200404/leet-code-problems/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/darwina200404/leet-code-problems/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/darwina200404/leet-code-problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/darwina200404/leet-code-problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/darwina200404/leet-code-problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/darwina200404/leet-code-problems/tree/master/1908-recyclable-and-low-fat-products) |
 ## Math
