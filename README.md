@@ -58,6 +58,7 @@
 | [0383-ransom-note](https://github.com/darwina200404/leet-code-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/darwina200404/leet-code-problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/darwina200404/leet-code-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/darwina200404/leet-code-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/darwina200404/leet-code-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/darwina200404/leet-code-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -144,6 +145,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/darwina200404/leet-code-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/darwina200404/leet-code-problems/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/darwina200404/leet-code-problems/tree/master/0605-can-place-flowers) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/darwina200404/leet-code-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/darwina200404/leet-code-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/darwina200404/leet-code-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/darwina200404/leet-code-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -171,6 +173,7 @@
 | [0242-valid-anagram](https://github.com/darwina200404/leet-code-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/darwina200404/leet-code-problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/darwina200404/leet-code-problems/tree/master/0389-find-the-difference) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/darwina200404/leet-code-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/darwina200404/leet-code-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/darwina200404/leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -230,4 +233,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/darwina200404/leet-code-problems/tree/master/0219-contains-duplicate-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/darwina200404/leet-code-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
