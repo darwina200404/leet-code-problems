@@ -49,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/darwina200404/leet-code-problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/darwina200404/leet-code-problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/darwina200404/leet-code-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/darwina200404/leet-code-problems/tree/master/0219-contains-duplicate-ii) |
@@ -124,6 +125,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/darwina200404/leet-code-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/darwina200404/leet-code-problems/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/darwina200404/leet-code-problems/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/darwina200404/leet-code-problems/tree/master/0074-search-a-2d-matrix) |
