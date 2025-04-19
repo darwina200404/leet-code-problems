@@ -29,6 +29,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darwina200404/leet-code-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/darwina200404/leet-code-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2383-add-two-integers](https://github.com/darwina200404/leet-code-problems/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/darwina200404/leet-code-problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/darwina200404/leet-code-problems/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/darwina200404/leet-code-problems/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/darwina200404/leet-code-problems/tree/master/2812-find-the-maximum-achievable-number) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/darwina200404/leet-code-problems/tree/master/0204-count-primes) |
+| [2491-smallest-even-multiple](https://github.com/darwina200404/leet-code-problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/darwina200404/leet-code-problems/tree/master/2507-number-of-common-factors) |
 ## Simulation
 |  |
