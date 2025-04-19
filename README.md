@@ -33,6 +33,7 @@
 | [2491-smallest-even-multiple](https://github.com/darwina200404/leet-code-problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/darwina200404/leet-code-problems/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/darwina200404/leet-code-problems/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/darwina200404/leet-code-problems/tree/master/2571-find-the-pivot-integer) |
 | [2752-sum-multiples](https://github.com/darwina200404/leet-code-problems/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/darwina200404/leet-code-problems/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/darwina200404/leet-code-problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -228,6 +229,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/darwina200404/leet-code-problems/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/darwina200404/leet-code-problems/tree/master/1603-running-sum-of-1d-array) |
+| [2571-find-the-pivot-integer](https://github.com/darwina200404/leet-code-problems/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/darwina200404/leet-code-problems/tree/master/2714-left-and-right-sum-differences) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/darwina200404/leet-code-problems/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Game Theory
