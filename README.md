@@ -28,6 +28,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/darwina200404/leet-code-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/darwina200404/leet-code-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/darwina200404/leet-code-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1806-count-of-matches-in-tournament](https://github.com/darwina200404/leet-code-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2383-add-two-integers](https://github.com/darwina200404/leet-code-problems/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/darwina200404/leet-code-problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/darwina200404/leet-code-problems/tree/master/2507-number-of-common-factors) |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/darwina200404/leet-code-problems/tree/master/0495-teemo-attacking) |
+| [1806-count-of-matches-in-tournament](https://github.com/darwina200404/leet-code-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/darwina200404/leet-code-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## String Matching
 |  |
