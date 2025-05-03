@@ -7,11 +7,12 @@ class Solution(object):
         new_nums=sorted(nums)
         ans=[]
         table={}
-        for i,num in enumerate (new_nums):
-            if num not in table:
-                table[num]=i
+        for index,val in enumerate(new_nums):
+            if val not in table:
+                table[val]=index
         for i in nums:
             ans.append(table[i])
         return ans
+
 
         
