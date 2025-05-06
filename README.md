@@ -70,6 +70,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/darwina200404/leet-code-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/darwina200404/leet-code-problems/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/darwina200404/leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/darwina200404/leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/darwina200404/leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2406-decode-the-message](https://github.com/darwina200404/leet-code-problems/tree/master/2406-decode-the-message) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/darwina200404/leet-code-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -98,6 +99,7 @@
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/darwina200404/leet-code-problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/darwina200404/leet-code-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/darwina200404/leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/darwina200404/leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2406-decode-the-message](https://github.com/darwina200404/leet-code-problems/tree/master/2406-decode-the-message) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/darwina200404/leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3312-number-of-changing-keys](https://github.com/darwina200404/leet-code-problems/tree/master/3312-number-of-changing-keys) |
@@ -114,6 +116,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/darwina200404/leet-code-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/darwina200404/leet-code-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/darwina200404/leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/darwina200404/leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/darwina200404/leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/darwina200404/leet-code-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Greedy
@@ -168,6 +171,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/darwina200404/leet-code-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2159-two-out-of-three](https://github.com/darwina200404/leet-code-problems/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/darwina200404/leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/darwina200404/leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/darwina200404/leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/darwina200404/leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2714-left-and-right-sum-differences](https://github.com/darwina200404/leet-code-problems/tree/master/2714-left-and-right-sum-differences) |
