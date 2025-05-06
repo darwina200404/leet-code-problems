@@ -6,8 +6,10 @@ class Solution(object):
         :type nums3: List[int]
         :rtype: List[int]
         """
-
-        nums=list(set(nums1))+list(set(nums2))+list(set(nums3))
+        a=list(set(nums1))
+        b=list(set(nums2))
+        c=list(set(nums3))
+        nums=a+b+c
         answer=[]
         freq={}
         for item in nums:
