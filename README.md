@@ -51,6 +51,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/darwina200404/leet-code-problems/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/darwina200404/leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/darwina200404/leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/darwina200404/leet-code-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/darwina200404/leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2406-decode-the-message](https://github.com/darwina200404/leet-code-problems/tree/master/2406-decode-the-message) |
+| [2427-first-letter-to-appear-twice](https://github.com/darwina200404/leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/darwina200404/leet-code-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darwina200404/leet-code-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -102,6 +104,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/darwina200404/leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/darwina200404/leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2406-decode-the-message](https://github.com/darwina200404/leet-code-problems/tree/master/2406-decode-the-message) |
+| [2427-first-letter-to-appear-twice](https://github.com/darwina200404/leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/darwina200404/leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3312-number-of-changing-keys](https://github.com/darwina200404/leet-code-problems/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/darwina200404/leet-code-problems/tree/master/3379-score-of-a-string) |
@@ -119,6 +122,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/darwina200404/leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/darwina200404/leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/darwina200404/leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/darwina200404/leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/darwina200404/leet-code-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Greedy
 |  |
