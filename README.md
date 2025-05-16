@@ -105,6 +105,7 @@
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/darwina200404/leet-code-problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/darwina200404/leet-code-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/darwina200404/leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2173-number-of-valid-words-in-a-sentence](https://github.com/darwina200404/leet-code-problems/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/darwina200404/leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2406-decode-the-message](https://github.com/darwina200404/leet-code-problems/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/darwina200404/leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
