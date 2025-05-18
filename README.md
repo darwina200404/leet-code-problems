@@ -23,6 +23,7 @@
 | [0050-powx-n](https://github.com/darwina200404/leet-code-problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/darwina200404/leet-code-problems/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/darwina200404/leet-code-problems/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/darwina200404/leet-code-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/darwina200404/leet-code-problems/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/darwina200404/leet-code-problems/tree/master/1013-fibonacci-number) |
@@ -246,6 +247,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/darwina200404/leet-code-problems/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/darwina200404/leet-code-problems/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/darwina200404/leet-code-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/darwina200404/leet-code-problems/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/darwina200404/leet-code-problems/tree/master/2507-number-of-common-factors) |
@@ -253,6 +255,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/darwina200404/leet-code-problems/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/darwina200404/leet-code-problems/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/darwina200404/leet-code-problems/tree/master/0495-teemo-attacking) |
 | [1806-count-of-matches-in-tournament](https://github.com/darwina200404/leet-code-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/darwina200404/leet-code-problems/tree/master/2048-build-array-from-permutation) |
