@@ -189,6 +189,7 @@
 | [2159-two-out-of-three](https://github.com/darwina200404/leet-code-problems/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/darwina200404/leet-code-problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/darwina200404/leet-code-problems/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/darwina200404/leet-code-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/darwina200404/leet-code-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/darwina200404/leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/darwina200404/leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -239,6 +240,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/darwina200404/leet-code-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/darwina200404/leet-code-problems/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/darwina200404/leet-code-problems/tree/master/1894-merge-strings-alternately) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/darwina200404/leet-code-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/darwina200404/leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Enumeration
 |  |
@@ -262,6 +264,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/darwina200404/leet-code-problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/darwina200404/leet-code-problems/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/darwina200404/leet-code-problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/darwina200404/leet-code-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/darwina200404/leet-code-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## String Matching
 |  |
