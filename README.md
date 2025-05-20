@@ -97,6 +97,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/darwina200404/leet-code-problems/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1651-shuffle-string](https://github.com/darwina200404/leet-code-problems/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/darwina200404/leet-code-problems/tree/master/1894-merge-strings-alternately) |
@@ -179,6 +180,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/darwina200404/leet-code-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/darwina200404/leet-code-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/darwina200404/leet-code-problems/tree/master/1603-running-sum-of-1d-array) |
+| [1651-shuffle-string](https://github.com/darwina200404/leet-code-problems/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/darwina200404/leet-code-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/darwina200404/leet-code-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
