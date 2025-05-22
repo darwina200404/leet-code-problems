@@ -99,6 +99,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/darwina200404/leet-code-problems/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1797-goal-parser-interpretation](https://github.com/darwina200404/leet-code-problems/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/darwina200404/leet-code-problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/darwina200404/leet-code-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
