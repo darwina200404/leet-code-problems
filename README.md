@@ -183,6 +183,7 @@
 | [1651-shuffle-string](https://github.com/darwina200404/leet-code-problems/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/darwina200404/leet-code-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1791-richest-customer-wealth](https://github.com/darwina200404/leet-code-problems/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/darwina200404/leet-code-problems/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/darwina200404/leet-code-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/darwina200404/leet-code-problems/tree/master/2048-build-array-from-permutation) |
@@ -232,6 +233,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/darwina200404/leet-code-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/darwina200404/leet-code-problems/tree/master/0074-search-a-2d-matrix) |
+| [1791-richest-customer-wealth](https://github.com/darwina200404/leet-code-problems/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
