@@ -4,7 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        freq={c:s.count(c) for c in s}
+        freq=Counter(s)
         vowel=['a','e','i','o','u']
         maxVowel,maxConstant=0,0
         for key,value in freq.items():
