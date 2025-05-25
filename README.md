@@ -81,6 +81,7 @@
 | [2406-decode-the-message](https://github.com/darwina200404/leet-code-problems/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/darwina200404/leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/darwina200404/leet-code-problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3412-permutation-difference-between-two-strings](https://github.com/darwina200404/leet-code-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darwina200404/leet-code-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/darwina200404/leet-code-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -117,6 +118,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/darwina200404/leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3312-number-of-changing-keys](https://github.com/darwina200404/leet-code-problems/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/darwina200404/leet-code-problems/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/darwina200404/leet-code-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3468-find-the-encrypted-string](https://github.com/darwina200404/leet-code-problems/tree/master/3468-find-the-encrypted-string) |
 | [3567-convert-date-to-binary](https://github.com/darwina200404/leet-code-problems/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/darwina200404/leet-code-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
