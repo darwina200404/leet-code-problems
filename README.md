@@ -82,6 +82,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/darwina200404/leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/darwina200404/leet-code-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darwina200404/leet-code-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/darwina200404/leet-code-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [3379-score-of-a-string](https://github.com/darwina200404/leet-code-problems/tree/master/3379-score-of-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/darwina200404/leet-code-problems/tree/master/3468-find-the-encrypted-string) |
 | [3567-convert-date-to-binary](https://github.com/darwina200404/leet-code-problems/tree/master/3567-convert-date-to-binary) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/darwina200404/leet-code-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/darwina200404/leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/darwina200404/leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/darwina200404/leet-code-problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/darwina200404/leet-code-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
