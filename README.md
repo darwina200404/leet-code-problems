@@ -100,6 +100,7 @@
 | [1205-defanging-an-ip-address](https://github.com/darwina200404/leet-code-problems/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/darwina200404/leet-code-problems/tree/master/1651-shuffle-string) |
+| [1764-maximum-repeating-substring](https://github.com/darwina200404/leet-code-problems/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/darwina200404/leet-code-problems/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -155,6 +156,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/darwina200404/leet-code-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/darwina200404/leet-code-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/darwina200404/leet-code-problems/tree/master/1236-n-th-tribonacci-number) |
+| [1764-maximum-repeating-substring](https://github.com/darwina200404/leet-code-problems/tree/master/1764-maximum-repeating-substring) |
 ## Memoization
 |  |
 | ------- |
@@ -284,6 +286,7 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/darwina200404/leet-code-problems/tree/master/0459-repeated-substring-pattern) |
+| [1764-maximum-repeating-substring](https://github.com/darwina200404/leet-code-problems/tree/master/1764-maximum-repeating-substring) |
 ## Prefix Sum
 |  |
 | ------- |
