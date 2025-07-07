@@ -80,6 +80,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/darwina200404/leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2406-decode-the-message](https://github.com/darwina200404/leet-code-problems/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/darwina200404/leet-code-problems/tree/master/2427-first-letter-to-appear-twice) |
+| [2442-number-of-arithmetic-triplets](https://github.com/darwina200404/leet-code-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/darwina200404/leet-code-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3412-permutation-difference-between-two-strings](https://github.com/darwina200404/leet-code-problems/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darwina200404/leet-code-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -206,6 +207,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/darwina200404/leet-code-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/darwina200404/leet-code-problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/darwina200404/leet-code-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2442-number-of-arithmetic-triplets](https://github.com/darwina200404/leet-code-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/darwina200404/leet-code-problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2714-left-and-right-sum-differences](https://github.com/darwina200404/leet-code-problems/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/darwina200404/leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -257,11 +259,13 @@
 | [0443-string-compression](https://github.com/darwina200404/leet-code-problems/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/darwina200404/leet-code-problems/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/darwina200404/leet-code-problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2442-number-of-arithmetic-triplets](https://github.com/darwina200404/leet-code-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/darwina200404/leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/darwina200404/leet-code-problems/tree/master/0204-count-primes) |
+| [2442-number-of-arithmetic-triplets](https://github.com/darwina200404/leet-code-problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/darwina200404/leet-code-problems/tree/master/2507-number-of-common-factors) |
 ## Number Theory
 |  |
