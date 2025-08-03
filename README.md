@@ -105,6 +105,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/darwina200404/leet-code-problems/tree/master/1651-shuffle-string) |
 | [1764-maximum-repeating-substring](https://github.com/darwina200404/leet-code-problems/tree/master/1764-maximum-repeating-substring) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/darwina200404/leet-code-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/darwina200404/leet-code-problems/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -198,6 +199,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/darwina200404/leet-code-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/darwina200404/leet-code-problems/tree/master/1651-shuffle-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/darwina200404/leet-code-problems/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/darwina200404/leet-code-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/darwina200404/leet-code-problems/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/darwina200404/leet-code-problems/tree/master/1833-find-the-highest-altitude) |
