@@ -110,6 +110,7 @@
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1894-merge-strings-alternately](https://github.com/darwina200404/leet-code-problems/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/darwina200404/leet-code-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1944-truncate-sentence](https://github.com/darwina200404/leet-code-problems/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/darwina200404/leet-code-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/darwina200404/leet-code-problems/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/darwina200404/leet-code-problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -201,6 +202,7 @@
 | [1791-richest-customer-wealth](https://github.com/darwina200404/leet-code-problems/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/darwina200404/leet-code-problems/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/darwina200404/leet-code-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1944-truncate-sentence](https://github.com/darwina200404/leet-code-problems/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/darwina200404/leet-code-problems/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/darwina200404/leet-code-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/darwina200404/leet-code-problems/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
