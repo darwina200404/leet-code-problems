@@ -225,6 +225,7 @@
 | [3242-count-elements-with-maximum-frequency](https://github.com/darwina200404/leet-code-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/darwina200404/leet-code-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/darwina200404/leet-code-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3582-find-indices-of-stable-mountains](https://github.com/darwina200404/leet-code-problems/tree/master/3582-find-indices-of-stable-mountains) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/darwina200404/leet-code-problems/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/darwina200404/leet-code-problems/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
