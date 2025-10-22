@@ -27,6 +27,7 @@
 | [0204-count-primes](https://github.com/darwina200404/leet-code-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/darwina200404/leet-code-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/darwina200404/leet-code-problems/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/darwina200404/leet-code-problems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/darwina200404/leet-code-problems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -256,6 +257,7 @@
 | [0074-search-a-2d-matrix](https://github.com/darwina200404/leet-code-problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/darwina200404/leet-code-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/darwina200404/leet-code-problems/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/0633-sum-of-square-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/darwina200404/leet-code-problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
@@ -273,6 +275,7 @@
 | [0283-move-zeroes](https://github.com/darwina200404/leet-code-problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/darwina200404/leet-code-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/darwina200404/leet-code-problems/tree/master/0443-string-compression) |
+| [0633-sum-of-square-numbers](https://github.com/darwina200404/leet-code-problems/tree/master/0633-sum-of-square-numbers) |
 | [1894-merge-strings-alternately](https://github.com/darwina200404/leet-code-problems/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/darwina200404/leet-code-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/darwina200404/leet-code-problems/tree/master/2442-number-of-arithmetic-triplets) |
